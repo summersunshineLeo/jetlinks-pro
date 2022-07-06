@@ -1,0 +1,44 @@
+[submodule "jetlinks-components"]
+	path = jetlinks-components
+	url = git@github.com:jetlinks/jetlinks-components.git
+	branch = master
+[submodule "jetlinks-parent"]
+	path = jetlinks-parent
+	url = git@github.com:jetlinks/jetlinks-parent.git
+	branch = master
+[submodule "jetlinks-standalone"]
+	path = jetlinks-standalone
+	url = git@github.com:jetlinks/jetlinks-standalone.git
+	branch = master
+[submodule "jetlinks-manager/authentication-manager"]
+	path = jetlinks-manager/authentication-manager
+	url = git@github.com:jetlinks/authentication-manager.git
+	branch = master
+[submodule "jetlinks-manager/device-manager"]
+	path = jetlinks-manager/device-manager
+	url = git@github.com:jetlinks/device-manager.git
+	branch = master
+[submodule "jetlinks-manager/rule-engine-manager"]
+	path = jetlinks-manager/rule-engine-manager
+	url = git@github.com:jetlinks/rule-engine-manager.git
+	branch = master
+[submodule "jetlinks-openapi"]
+	path = jetlinks-openapi
+	url = git@github.com:jetlinks/jetlinks-openapi.git
+	branch = master
+[submodule "jetlinks-manager/network-manager"]
+	path = jetlinks-manager/network-manager
+	url = git@github.com:jetlinks/network-manager.git
+	branch = master
+[submodule "jetlinks-manager/notify-manager"]
+	path = jetlinks-manager/notify-manager
+	url = git@github.com:jetlinks/notify-manager.git
+[submodule "jetlinks-manager/logging-manager"]
+	path = jetlinks-manager/logging-manager
+	url = git@github.com:jetlinks/logging-manager.git
+[submodule "jetlinks-manager/visualization-manager"]
+	path = jetlinks-manager/visualization-manager
+	url = git@github.com:jetlinks/visualization-manager.git
+[submodule "jetlinks-manager/datasource-manager"]
+	path = jetlinks-manager/datasource-manager
+	url = git@github.com:jetlinks/datasource-manager.git
